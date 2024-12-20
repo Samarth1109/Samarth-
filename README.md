@@ -3,7 +3,7 @@
 
 
 # import qrcode (to generate QR)
-# to handle the images:
+# to handle the images: 
 # from Image import PIL  (to handle the images)
 
 # Initalise a variable for making the qr
